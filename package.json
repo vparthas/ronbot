@@ -1,0 +1,22 @@
+{
+  "name": "ronbot",
+  "version": "1.0.0",
+  "description": "mynameiskaustavbutyoucancallmerony",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vparthas/ronbot.git"
+  },
+  "author": "TheChadKaustav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vparthas/ronbot/issues"
+  },
+  "homepage": "https://github.com/vparthas/ronbot#readme",
+  "dependencies": {
+    "facebook-chat-api": "github:Schmavery/facebook-chat-api"
+  }
+}
