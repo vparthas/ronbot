@@ -11,4 +11,4 @@ EXPOSE 9001
 ENV FB_USER ""
 ENV FB_PASS ""
 
-CMD ["node", "app.js", "|", "frontail"]
+CMD ["node", "app.js", "|", "frontail", "-"]
