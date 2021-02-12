@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vparthas/ronbot#readme",
   "dependencies": {
-    "facebook-chat-api": "github:Schmavery/facebook-chat-api"
+    "facebook-chat-api": "github:Schmavery/facebook-chat-api",
+    "object-hash": "^2.1.1"
   }
 }
